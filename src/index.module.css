@@ -1,0 +1,23 @@
+svg {
+  vertical-align: bottom;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.circles {
+  display: flex;
+  gap: 1rem;
+}
+
+.circleTitle {
+  text-align: center;
+}
+
+.circleBody {
+  text-align: center;
+  padding: 1rem;
+}

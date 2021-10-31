@@ -1,1 +1,1 @@
-# template-vite-spa
+# component-circle-gauge
